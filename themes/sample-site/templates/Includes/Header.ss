@@ -22,10 +22,15 @@
     </div>
 
 <div class="top-bar">
+    <%--<div class="grid-container">--%>
+        <%--<div class="grid-x">--%>
+        <%--<div class="cell small-6 medium-4 large-6">--%>
         <div class="top-bar-left">
             <h3> <span> BT </span> Hosting</h3>
         </div>
-         <div class="top-bar-right">
+        <%--</div>--%>
+        <%--<div class="cell small-6 medium-8 large-6">--%>
+        <div class="top-bar-right">
             <ul class="menu">
                 <li> <a class=" current" href="#"> Home </a> </li>
                 <li> <a href="#"> Shared Hosting </a> </li>
@@ -33,7 +38,10 @@
                 <li> <a href="#"> Dedicated Servers</a> </li>
 
             </ul>
-        </div>
-</div>
+         </div>
+        <%--</div>--%>
+        <%--</div>--%>
+    </div>
+<%--</div>--%>
     <%--</div>--%>
 </header>
