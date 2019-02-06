@@ -1,4 +1,7 @@
-<div class="top-nav">
+<header class="header">
+    <%--<div class="grid-container">--%>
+<div class="header__top-nav">
+    <div class="grid-container">
     <div class="grid-x">
         <div class="cell small-6 medium-6 large-6">
             <ul class="top-list-left">
@@ -15,4 +18,22 @@
             </ul>
         </div>
     </div>
+    </div>
+    </div>
+
+<div class="top-bar">
+        <div class="top-bar-left">
+            <h3> <span> BT </span> Hosting</h3>
+        </div>
+         <div class="top-bar-right">
+            <ul class="menu">
+                <li> <a class=" current" href="#"> Home </a> </li>
+                <li> <a href="#"> Shared Hosting </a> </li>
+                <li> <a href="#"> vps hosting </a> </li>
+                <li> <a href="#"> Dedicated Servers</a> </li>
+
+            </ul>
+        </div>
 </div>
+    <%--</div>--%>
+</header>
