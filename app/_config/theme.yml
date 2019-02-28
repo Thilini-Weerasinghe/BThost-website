@@ -3,6 +3,6 @@ Name: mytheme
 ---
 SilverStripe\View\SSViewer:
   themes:
-    - 'sample-site'
+    - 'bthost'
     - 'simple'
     - '$default'

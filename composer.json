@@ -27,9 +27,9 @@
             "web.config"
         ],
         "expose": [
-            "themes/sample-site/static/dist",
-            "themes/sample-site/static/images",
-            "themes/sample-site/static/js"
+            "themes/bthost/static/dist",
+            "themes/bthost/static/images",
+            "themes/bthost/static/js"
         ]
 
     },
